@@ -1,0 +1,33 @@
+#Flow control statements:
+The purpose of flow control statements is to perform certain operation at once only(if x:test condition is True or y:condition False)
+or to perform repeatedly tasks if condition is not become False.
+There are three types of Flow control statements
+1)Conditional statements:that conditions perform certain operation at once only
+2)Looping statements:that condition is perform certain operation repeatedly if condition becomes False
+3)Transfer Flow statements
+#All flow statements work on indentation (':'=indentation symbal),(tab = Space means indentation)and any type of code user flow
+statement is (indentation block) that things are mandatory in flow statement if you avoid any one from above so console trow indentation error
+
+
+==>1}Conditional Statements:The purpose of conditional statements is to perform operation at once only
+(test condition X is True or test condition Y is False)
+if user want define test condition later so that time  'pass' keyword is use , that ignore the condition
+There are 4 Types of test conditions are
+a)simple if
+b)if else condition
+c)if elif else condition
+d)match case condition
+
+
+==>2}Looping Statements: The purpose of Looping Statements is to Repeat operation for finite time if the the condition is False
+There are 2 types of Looping Statements are there
+a)while / while_else loop
+b)for  / for_else loop
+
+==>3}Transfer Flow Statements:The purpose of transfer flow statement is to control execution block of statement define in conditions
+and loops or define indentation block
+There are 4 types of transfer flow statement
+a)break(this statement is use only in inside the loop)
+b)continue (is outdated it use rarely)
+c)pass (this statement is use currently on continue place)
+d)return(this statement use in user defined function)

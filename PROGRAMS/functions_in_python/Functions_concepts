@@ -1,0 +1,74 @@
+In IT field there are two types of languages.They are
+a]unstructured language:This language not provide the concept of function and applications of this language is given below
+1)application time more
+2)application memory space more
+3)application execution time more
+4)application performance worst
+5)duplication of the code is more
+
+b]Structured language:this language provide the function concept and the advantages of this language is given below
+1)application time less
+2)application memory space less
+3)application execution time less
+4)application performance improved
+5)duplication of the code is minimize
+
+Function In python:
+The purpose of function is to perform certain operation and provide reusability to user for using function
+1)application time less
+2)application memory space less
+3)application execution time less
+4)application performance improved
+5)duplication of the code is minimize
+
+what is mean by function?
+The part of the main program is called as function
+
+parts of function:
+1)function definition:This part is use for define the function at once in program
+2)function call:this part is use for call the function in program of N times
+
+phase of functions:
+1)getting input
+2)process on input
+3)giving output/result
+
+Syntax of function:
+1)'def' is keyword is use for define function in program
+2)function name is  valid variable use for giving function name and the variable is an object that in <class:'function'> and define in function header
+3)defining formal parameters in function for storing or holding inputs in function header part
+4)def string this is the use for description help in function we can call this description using help(function name)
+  it use for giving info about function its optional in function body part
+5) indentation block or body of function or function process logic this is the block of function use for write statements and process on inputs
+6) local variable is define in function and its use for temporary purpose
+7)we can use local variable and formal parameters in function only if we can call out from function its giving NameError
+
+Approaches (ways)in function for define.:
+*There are 4 types of approaches for define function we see in programming examples
+*All Approaches goes from  3 function phases are
+1)getting input
+2)process on input
+3)giving output/result
+But difference only in defin phase place is different some phase define in function definition part or some in function call part
+or all phases in function definition part or all phases in function call part
+
+*parameters in function:
+There are two types of parameters in function:
+1)formal parameters:This parameter is use in function heading for holding or storing inputs coming from function call
+2)local parameters/variable :This parameter is use in function body part for process on inputs or define another value this
+  variable result store temporarily
+=We can not access parameters or local variables out of the function because its define in function and we can use only inside the function if
+ we use in outside the function its give name error
+
+*Arguments in function:
+arguments is nothing but it's variables or values or inputs define in function call part .this arguments passes value to formal parameters in function
+one by one means arguments are the inputs define in function call part that hold by formal parameters in function definition part
+=This passing process is called passing argument mechanism
+
+*Types of arguments
+There are 5 types of arguments:
+1)Positional argument :This argument use by default by PVM in Function
+2)Default argument :This argument is use for Printing or storing the by default value on all rows
+3)Keyword argument :This argument is use for  if i disturb order of inputs in function so this argument is arrange the order by using formal parameters name
+4)Variable length argument :This argument its a object of tuple class and it hold the multiple inputs '*parametername' denoted by in function definition part print() follow this argument
+5)Keyword variable length argument :
