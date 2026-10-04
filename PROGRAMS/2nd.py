@@ -11,7 +11,5 @@ for i in range(122):
     left (3)
     forward (130)
     right(180)
-
-
 done()
 
