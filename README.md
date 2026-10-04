@@ -1,1 +1,1 @@
-These is python programs I learnt from begining 
+These is python programs I learnt from begining and practise orally
