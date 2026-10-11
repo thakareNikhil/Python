@@ -1,4 +1,4 @@
-<h1>These is python programs I learnt from begining and practise orally</h1>
+<h3>These is python programs I learnt from beginning and practice orally</h3>
 <br>
 Data Types — int, float, bool, complex, range, str, list, tuple, set, dict
 <br>
